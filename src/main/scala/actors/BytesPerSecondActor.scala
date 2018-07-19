@@ -1,3 +1,4 @@
+/*
 package actors
 
 import akka.actor.Actor
@@ -21,3 +22,5 @@ class BytesPerSecondActor extends Actor {
 }
 
 object Tick
+
+*/
