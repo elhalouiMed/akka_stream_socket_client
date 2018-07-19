@@ -8,7 +8,7 @@ this example is build for testing a socket server if he is able to handle thousa
 
 to run this example you need to have socket server running somewhere and configure host an port in ClientActor.scala file
 
-```
+```scala    
    val serverConnection = Tcp().outgoingConnection("localhost", 9182)
 ```
 
