@@ -1,3 +1,5 @@
+## Akka Stream Socket Client
+
 This is a simple example of akka socket client that use akka stream to send Bytes from a given data file to server
 ```
 Dataset: http://stat-computing.org/dataexpo/2009/2008.csv.bz2
