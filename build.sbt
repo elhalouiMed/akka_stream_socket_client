@@ -1,6 +1,6 @@
-organization  := "com.softwaremill"
+organization  := "ma.innovlab"
 
-name := "reactive-akka-pres"
+name := "akka_stream_socket_client"
 
 version := "0.1-SNAPSHOT"
 
