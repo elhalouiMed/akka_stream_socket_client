@@ -34,9 +34,5 @@ class ClientActor (implicit system :ActorSystem , implicit val stateActor: Actor
       implicit val mat = ActorFlowMaterializer()
       flow.run()
     }
-
   }
-
-
-
 }
